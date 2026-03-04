@@ -1,8 +1,8 @@
 {
-  "name": "blank-new-tab",
+  "name": "Blank New Tab Page",
   "description": "A completely blank new tab page.",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
