@@ -38,7 +38,7 @@ PERMISSIONS
 SUPPORT
 Found a bug or have a suggestion? Open an issue at https://github.com/cteerakit/blank-new-tab
 
-Version 1.0.0 — Initial release: blank new tab with light, dark, and high-contrast theme support.
+Version 1.0.1 — Blank new tab with light, dark, and high-contrast theme support.
 ```
 
 **Category** [REQUIRED]
@@ -104,6 +104,7 @@ Chrome Web Store listing Google Analytics (Developer Dashboard opt-in) tracks **
 
 | Version | Date | Changes | Status |
 |---------|------|---------|--------|
+| 1.0.1 | 2026-08-15 | Chrome Web Store package: listing copy, manifest description, and zip | Draft |
 | 1.0.0 | 2026-08-15 | Initial release: blank new tab with light, dark, and high-contrast theme support | Draft |
 
 ## Review Notes

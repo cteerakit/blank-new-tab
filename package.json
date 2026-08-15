@@ -2,7 +2,7 @@
   "name": "blank-new-tab",
   "description": "Replaces the new tab page with a completely blank page. No shortcuts, widgets, or clutter. Follows light and dark theme.",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
