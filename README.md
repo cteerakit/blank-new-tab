@@ -8,7 +8,7 @@ A lightweight browser extension that provides a completely blank new tab page wi
 
 - [Chrome](https://chromewebstore.google.com/detail/blank-new-tab-page/ijcaekmigmbollknbdefjekkodgibhfn)
 - Firefox — coming soon
-- Edge — coming soon
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/blank-new-tab-page/ddefejpoppiekbidglmgahkdjekgjepn)
 
 ## Development
 
