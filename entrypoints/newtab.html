@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" href="/favicon-light.png" type="image/png" media="(prefers-color-scheme: light)">
+    <link rel="icon" href="/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
+    <title>&#xFEFF;</title>
+    <style>
+        :root {
+            color-scheme: light dark;
+        }
+
+        html,
+        body {
+            margin: 0;
+            height: 100%;
+            overflow: hidden;
+            background-color: light-dark(#ffffff, #202124);
+            color: light-dark(#202124, #e8eaed);
+        }
+
+        @media (forced-colors: active) {
+            html,
+            body {
+                background-color: Canvas;
+                color: CanvasText;
+            }
+        }
+    </style>
+</head>
+
+<body>
+</body>
+
+</html>

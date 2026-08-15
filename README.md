@@ -6,13 +6,14 @@ A lightweight browser extension that provides a completely blank new tab page wi
 
 1. Install dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 2. Start development server:
    ```bash
-   npm run dev
+   pnpm dev
    ```
-3. Build for production:
+3. Load the unpacked extension from `.output/chrome-mv3` in `chrome://extensions`.
+4. Build for production:
    ```bash
-   npm run build
+   pnpm build
    ```
