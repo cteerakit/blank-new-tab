@@ -1,5 +1,7 @@
 # Blank New Tab
 
+![Blank New Tab — light and dark blank new tab page](docs/marquee.png)
+
 A lightweight browser extension that provides a completely blank new tab page with no title and no icon.
 
 ## Development
