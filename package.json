@@ -11,6 +11,7 @@
     "build:firefox": "wxt build -b firefox",
     "zip": "wxt zip",
     "zip:firefox": "wxt zip -b firefox",
+    "zip:edge": "wxt zip -b edge",
     "compile": "tsc --noEmit",
     "postinstall": "wxt prepare"
   },
@@ -18,8 +19,5 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "wxt": "^0.20.18"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": ["esbuild", "spawn-sync"]
   }
 }

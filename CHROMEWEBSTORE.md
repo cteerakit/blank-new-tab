@@ -104,7 +104,7 @@ Chrome Web Store listing Google Analytics (Developer Dashboard opt-in) tracks **
 
 | Version | Date | Changes | Status |
 |---------|------|---------|--------|
-| 1.0.1 | 2026-08-15 | Chrome Web Store package: listing copy, manifest description, and zip | Draft |
+| 1.0.1 | 2026-08-15 | Chrome Web Store listing: https://chromewebstore.google.com/detail/blank-new-tab-page/ijcaekmigmbollknbdefjekkodgibhfn | Published |
 | 1.0.0 | 2026-08-15 | Initial release: blank new tab with light, dark, and high-contrast theme support | Draft |
 
 ## Review Notes
