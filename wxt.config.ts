@@ -4,6 +4,7 @@ import { defineConfig } from 'wxt';
 export default defineConfig({
     manifest: {
         name: 'Blank New Tab Page',
-        description: 'A completely blank new tab page.',
+        description:
+            'Replaces the new tab page with a completely blank page. No shortcuts, widgets, or clutter. Follows light and dark theme.',
     },
 });

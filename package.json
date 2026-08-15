@@ -1,6 +1,6 @@
 {
   "name": "blank-new-tab",
-  "description": "A completely blank new tab page.",
+  "description": "Replaces the new tab page with a completely blank page. No shortcuts, widgets, or clutter. Follows light and dark theme.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -18,5 +18,8 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "wxt": "^0.20.18"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "spawn-sync"]
   }
 }
