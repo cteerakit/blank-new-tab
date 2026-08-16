@@ -1,6 +1,6 @@
 # Chrome Web Store Listing — Blank New Tab Page
 
-> Last Updated: 2026-08-15
+> Last Updated: 2026-08-16
 
 ## Store Listing
 
@@ -34,9 +34,6 @@ This extension does not collect, store, or transmit any personal data. It does n
 
 PERMISSIONS
 • Replace the page you see when opening a new tab — this is how the blank page is shown. The extension does nothing else.
-
-SUPPORT
-Found a bug or have a suggestion? Open an issue at https://github.com/cteerakit/blank-new-tab
 
 Version 1.0.1 — Blank new tab with light, dark, and high-contrast theme support.
 ```
@@ -97,13 +94,14 @@ Chrome Web Store listing Google Analytics (Developer Dashboard opt-in) tracks **
 
 ## Developer Info
 
-**Support URL**: https://github.com/cteerakit/blank-new-tab
+**Support URL**: Leave empty. Use the Chrome Web Store listing Support tab; do not send users to GitHub.
 **Homepage URL**: https://github.com/cteerakit/blank-new-tab
 
 ## Version History
 
 | Version | Date | Changes | Status |
 |---------|------|---------|--------|
+| 1.0.1 | 2026-08-16 | Removed GitHub support link from listing copy; store Support tab is enough | Published |
 | 1.0.1 | 2026-08-15 | Chrome Web Store listing: https://chromewebstore.google.com/detail/blank-new-tab-page/ijcaekmigmbollknbdefjekkodgibhfn | Published |
 | 1.0.0 | 2026-08-15 | Initial release: blank new tab with light, dark, and high-contrast theme support | Draft |
 

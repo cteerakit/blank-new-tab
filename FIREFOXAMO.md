@@ -1,6 +1,6 @@
 # Firefox Add-ons (AMO) Listing — Blank New Tab Page
 
-> Last Updated: 2026-08-15
+> Last Updated: 2026-08-16
 
 Submit at [addons.mozilla.org/developers](https://addons.mozilla.org/developers/). Package with `pnpm zip:firefox`.
 
@@ -45,9 +45,6 @@ This add-on does not collect, store, or transmit any personal data. It does not 
 
 PERMISSIONS
 • Replace the page you see when opening a new tab — this is how the blank page is shown. The add-on does nothing else.
-
-SUPPORT
-Found a bug or have a suggestion? Open an issue at https://github.com/cteerakit/blank-new-tab
 
 Version 1.0.1 — Blank new tab with light, dark, and high-contrast theme support.
 ```
@@ -144,7 +141,7 @@ On AMO, do **not** check “This add-on has a privacy policy” unless you later
 
 ## Developer Info
 
-**Support website**: https://github.com/cteerakit/blank-new-tab
+**Support website**: Leave empty. Use AMO listing support; do not send users to GitHub.
 **Homepage**: https://github.com/cteerakit/blank-new-tab
 **Support email**: Account-level only. Do not put an email in the public description unless you want it public.
 
@@ -173,6 +170,7 @@ The hashed JS chunk in the packaged HTML is Vite’s modulepreload helper from t
 
 | Version | Date | Changes | Status |
 |---------|------|---------|--------|
+| 1.0.1 | 2026-08-16 | Removed GitHub support link from listing copy; AMO support is enough | Draft |
 | 1.0.1 | 2026-08-15 | Firefox AMO package: gecko ID, data-collection none, listing copy, and zip | Draft |
 | 1.0.0 | 2026-08-15 | Initial release: blank new tab with light, dark, and high-contrast theme support | Draft |
 

@@ -1,6 +1,6 @@
 # Microsoft Edge Add-ons Listing — Blank New Tab Page
 
-> Last Updated: 2026-08-15
+> Last Updated: 2026-08-16
 
 Submit at [Partner Center](https://partner.microsoft.com/dashboard/microsoftedge/public/login). Package with `pnpm zip:edge`. Upload `.output/blank-new-tab-1.0.1-edge.zip`.
 
@@ -44,9 +44,6 @@ This extension does not collect, store, or transmit any personal data. It does n
 
 PERMISSIONS
 • Replace the page you see when opening a new tab — this is how the blank page is shown. The extension does nothing else.
-
-SUPPORT
-Found a bug or have a suggestion? Open an issue at https://github.com/cteerakit/blank-new-tab
 
 Version 1.0.1 — Blank new tab with light, dark, and high-contrast theme support.
 ```
@@ -133,7 +130,7 @@ No. Manifest V3; all files are in the extension package.
 ## Developer Info
 
 **Website**: https://github.com/cteerakit/blank-new-tab
-**Support contact detail**: https://github.com/cteerakit/blank-new-tab
+**Support contact detail**: Leave empty. Use the Edge Add-ons listing support; do not send users to GitHub.
 **Homepage URL**: https://github.com/cteerakit/blank-new-tab
 
 Partner Center registration uses a Microsoft account (MSA). Do not put a personal email in the public description unless you want it public.
@@ -157,7 +154,8 @@ No accounts, no network calls, no optional settings. No remote code.
 
 | Version | Date | Changes | Status |
 |---------|------|---------|--------|
-| 1.0.1 | 2026-08-15 | Edge Add-ons listing copy and Chromium zip | Draft |
+| 1.0.1 | 2026-08-16 | Removed GitHub support link from listing copy; store support is enough | Published |
+| 1.0.1 | 2026-08-15 | Edge Add-ons listing copy and Chromium zip | Published |
 | 1.0.0 | 2026-08-15 | Initial release: blank new tab with light, dark, and high-contrast theme support | Draft |
 
 ## Review Notes
