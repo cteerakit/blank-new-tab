@@ -20,17 +20,20 @@ Use the support tab on the [Chrome Web Store](https://chromewebstore.google.com/
    ```bash
    pnpm install
    ```
-2. Start development server:
+
+### Chrome
+
+1. Start development server:
    ```bash
    pnpm dev
    ```
-3. Load the unpacked extension from `.output/chrome-mv3` in `chrome://extensions`.
-4. Build for production:
+2. Load the unpacked extension from `.output/chrome-mv3` in `chrome://extensions`.
+3. Build for production:
     ```bash
     pnpm build
     ```
 
-## Firefox
+### Firefox
 
 1. Develop:
     ```bash
@@ -42,3 +45,16 @@ Use the support tab on the [Chrome Web Store](https://chromewebstore.google.com/
     pnpm zip:firefox
     ```
    This writes an extension ZIP and a sources ZIP under `.output/`. Upload the extension ZIP to AMO. If AMO asks for source, upload the sources ZIP and use these rebuild steps: `pnpm install` then `pnpm zip:firefox`.
+
+### Edge
+
+1. Develop:
+    ```bash
+    pnpm dev:edge
+    ```
+2. Load the unpacked extension from `.output/edge-mv3` in `edge://extensions`.
+3. Package for [Edge Add-ons](https://partner.microsoft.com/dashboard/microsoftedge/public/login):
+    ```bash
+    pnpm zip:edge
+    ```
+   This writes an extension ZIP under `.output/`. Upload that ZIP in Partner Center.
