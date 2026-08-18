@@ -7,12 +7,12 @@ A lightweight browser extension that provides a completely blank new tab page wi
 ## Install
 
 - [Chrome](https://chromewebstore.google.com/detail/blank-new-tab-page/ijcaekmigmbollknbdefjekkodgibhfn)
-- Firefox — coming soon
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cteerakit-blank-new-tab/)
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/blank-new-tab-page/ddefejpoppiekbidglmgahkdjekgjepn)
 
 ## Support
 
-Use the support tab on the [Chrome Web Store](https://chromewebstore.google.com/detail/blank-new-tab-page/ijcaekmigmbollknbdefjekkodgibhfn) or [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/blank-new-tab-page/ddefejpoppiekbidglmgahkdjekgjepn) listing. Each store already has built-in support.
+Use the support tab on the [Chrome Web Store](https://chromewebstore.google.com/detail/blank-new-tab-page/ijcaekmigmbollknbdefjekkodgibhfn), [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/cteerakit-blank-new-tab/), or [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/blank-new-tab-page/ddefejpoppiekbidglmgahkdjekgjepn) listing. Each store already has built-in support.
 
 ## Development
 
